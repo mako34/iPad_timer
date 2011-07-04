@@ -1,0 +1,51 @@
+TtimerAction
+v7
+r1
+
+N/Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+c000000004D0030E10000000000004D31
+t1291858145
+s19761
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app
+t2
+s0
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app/Contents/Info.plist
+t2
+s0
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app/Contents/Resources/timerActionViewController.nib
+t2
+s0
+
+N/Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+c000000004D00504F0000000000005E58
+t1291866191
+s24152
+
+NtimerAction-Info.plist
+c000000004D0030E100000000000004D6
+t1291858145
+s1238
+
+CCompileXIB /Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+r0
+
+CCompileXIB /Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app/Contents/Info.plist timerAction-Info.plist
+r0
+
+CTouch /Users/mkss9/Documents/iPad/timerAction/build/Debug/timerAction.app
+r0
+

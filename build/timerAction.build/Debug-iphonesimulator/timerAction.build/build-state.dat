@@ -1,0 +1,303 @@
+TtimerAction
+v7
+r0
+t331450881.714731
+cCheck dependencies
+cProcessInfoPlistFile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/Info.plist timerAction-Info.plist
+cCompileXIB /Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+cCompileXIB /Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+cProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch.gch timerAction_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/main.o /Users/mkss9/Documents/iPad/timerAction/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionAppDelegate.o /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionViewController.o /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction normal i386
+cGenerateDSYMFile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app.dSYM /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction
+cTouch /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.h
+c000000004D0030E100000000000001E3
+t1291858145
+s483
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m
+c000000004D0030E100000000000007AA
+t1291858145
+s1962
+i"timerActionAppDelegate.h"
+i"timerActionViewController.h"
+
+N/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.h
+c000000004D0053B600000000000001BD
+t1291867062
+s445
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m
+c000000004D00553B0000000000000666
+t1291867451
+s1638
+i"timerActionViewController.h"
+
+N/Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+c000000004D0030E10000000000004D31
+t1291858145
+s19761
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app
+t1309758081
+s238
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app.dSYM
+t1309758081
+s102
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/Info.plist
+t1309758065
+s814
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/MainWindow.nib
+t1309758075
+s1131
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/PkgInfo
+t1309758065
+s8
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction
+t1309758081
+s18648
+
+N/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerActionViewController.nib
+t1309758076
+s2109
+
+N/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/main.o
+t1309758080
+s6304
+
+N/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerAction.LinkFileList
+c000000004D00312A00000000000001B0
+t1291858218
+s432
+
+N/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionAppDelegate.o
+t1309758080
+s50372
+
+N/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionViewController.o
+t1309758080
+s43608
+
+N/Users/mkss9/Documents/iPad/timerAction/main.m
+c000000004D0030E10000000000000159
+t1291858145
+s345
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+c000000004D00504F0000000000005E58
+t1291866191
+s24152
+
+N/Users/mkss9/Documents/iPad/timerAction/timerAction_Prefix.pch
+c000000004D0030E100000000000000BF
+t1291858145
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch.gch
+t1309758079
+s10360536
+
+N/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-fqllgxyxxpkktkhcspfcgfaovlqk/timerAction_Prefix.pch.gch
+t1291858220
+s9273920
+
+NtimerAction-Info.plist
+c000000004D0030E100000000000004D6
+t1291858145
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331450865#331450865#0(0"0(0#1#0"2501493392#0"0#
+
+CCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/main.o /Users/mkss9/Documents/iPad/timerAction/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331450880.003728
+e331450880.731997
+r1
+xCompileC
+xbuild/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/main.o
+x/Users/mkss9/Documents/iPad/timerAction/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/mkss9/Documents/iPad/timerAction/main.m331450880#331450880#0(0"0(0#0#46"/Users/mkss9/Documents/iPad/timerAction/main.m2501493392#2005"    cd /Users/mkss9/Documents/iPad/timerAction    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-generated-files.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-project-headers.hmap -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch -c /Users/mkss9/Documents/iPad/timerAction/main.m -o /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/main.o0#
+
+CCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionAppDelegate.o /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331450880.005384
+e331450880.735255
+r1
+xCompileC
+xbuild/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionAppDelegate.o
+x/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m331450880#331450880#0(0"0(0#0#72"/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m2501493392#2049"    cd /Users/mkss9/Documents/iPad/timerAction    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-generated-files.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-project-headers.hmap -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch -c /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionAppDelegate.m -o /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionAppDelegate.o0#
+
+CCompileC build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionViewController.o /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s331450880.732180
+e331450880.883933
+r1
+xCompileC
+xbuild/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionViewController.o
+x/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m331450880#331450880#0(0"0(0#0#75"/Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m2501493392#2055"    cd /Users/mkss9/Documents/iPad/timerAction    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-generated-files.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-project-headers.hmap -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch -c /Users/mkss9/Documents/iPad/timerAction/Classes/timerActionViewController.m -o /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerActionViewController.o0#
+
+CCompileXIB /Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+s331450865.361101
+e331450876.296728
+r1
+xCompileXIB
+x/Users/mkss9/Documents/iPad/timerAction/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331450865#331450876#0(0"0(0#0#54"/Users/mkss9/Documents/iPad/timerAction/MainWindow.xib2501493392#577"    cd /Users/mkss9/Documents/iPad/timerAction    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/MainWindow.nib /Users/mkss9/Documents/iPad/timerAction/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+s331450865.373776
+e331450876.909143
+r1
+xCompileXIB
+x/Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib
+lSLF07#2@40"CompileXIB timerActionViewController.xib331450865#331450876#0(0"0(0#0#69"/Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib2501493392#607"    cd /Users/mkss9/Documents/iPad/timerAction    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerActionViewController.nib /Users/mkss9/Documents/iPad/timerAction/timerActionViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app.dSYM /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction
+s331450881.486173
+e331450881.618161
+r1
+xGenerateDSYMFile
+x/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app.dSYM
+x/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/timerAction.app.dSYM build/Debug-iphonesimulator/timerAction.app/timerAction331450881#331450881#0(0"0(0#0#95"/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction2501493392#398"    cd /Users/mkss9/Documents/iPad/timerAction    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction -o /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app.dSYM0#
+
+CLd /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction normal i386
+s331450880.884061
+e331450881.486045
+r1
+xLd
+x/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction
+xnormal
+xi386
+lSLF07#2@100"Link /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction331450880#331450881#0(0"0(0#0#0"2501493392#925"    cd /Users/mkss9/Documents/iPad/timerAction    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -filelist /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/Objects-normal/i386/timerAction.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/timerAction0#
+
+CProcessInfoPlistFile /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/Info.plist timerAction-Info.plist
+s331450865.240156
+e331450865.360968
+r1
+xProcessInfoPlistFile
+x/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/Info.plist
+xtimerAction-Info.plist
+lSLF07#2@30"Process timerAction-Info.plist331450865#331450865#0(0"0(0#0#62"/Users/mkss9/Documents/iPad/timerAction/timerAction-Info.plist2501493392#494"    cd /Users/mkss9/Documents/iPad/timerAction    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility timerAction-Info.plist -genpkginfo /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app/Info.plist0#
+
+CProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch.gch timerAction_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s331450876.909303
+e331450880.003512
+r1
+xProcessPCH
+x/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch.gch
+xtimerAction_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile timerAction_Prefix.pch331450876#331450880#0(0"0(0#0#62"/Users/mkss9/Documents/iPad/timerAction/timerAction_Prefix.pch2501493392#1892"    cd /Users/mkss9/Documents/iPad/timerAction    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-generated-files.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-project-headers.hmap -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources -c /Users/mkss9/Documents/iPad/timerAction/timerAction_Prefix.pch -o /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-cjvquyeqqyrgoiechvvuhsmrmgvh/timerAction_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-fqllgxyxxpkktkhcspfcgfaovlqk/timerAction_Prefix.pch.gch timerAction_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s313551019.243928
+e313551020.876359
+r1
+xProcessPCH
+x/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-fqllgxyxxpkktkhcspfcgfaovlqk/timerAction_Prefix.pch.gch
+xtimerAction_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile timerAction_Prefix.pch313551019#313551020#0(0"0(0#0#62"/Users/mkss9/Documents/iPad/timerAction/timerAction_Prefix.pch2483610256#1933"    cd /Users/mkss9/Documents/iPad/timerAction    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-generated-files.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/timerAction-project-headers.hmap -F/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/timerAction/build/timerAction.build/Debug-iphonesimulator/timerAction.build/DerivedSources -c /Users/mkss9/Documents/iPad/timerAction/timerAction_Prefix.pch -o /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/timerAction_Prefix-fqllgxyxxpkktkhcspfcgfaovlqk/timerAction_Prefix.pch.gch0#
+
+CTouch /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app
+s331450881.618344
+e331450881.714670
+r1
+xTouch
+x/Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app
+lSLF07#2@89"Touch /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app331450881#331450881#0(0"0(0#0#0"2501493392#284"    cd /Users/mkss9/Documents/iPad/timerAction    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mkss9/Documents/iPad/timerAction/build/Debug-iphonesimulator/timerAction.app0#
+

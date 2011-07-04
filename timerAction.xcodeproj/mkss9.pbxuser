@@ -1,0 +1,192 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* timerActionAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1348, 632}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 483}";
+		};
+	};
+	1D3623250D0F684500981E51 /* timerActionAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1586}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* timerAction */ = {
+		activeExec = 0;
+		executables = (
+			ED8BF84212B0686100F2E9DE /* timerAction */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* timerActionViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1348, 627}}";
+			sepNavSelRange = "{318, 0}";
+			sepNavVisRange = "{0, 445}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* timerActionViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 871}}";
+			sepNavSelRange = "{987, 0}";
+			sepNavVisRange = "{788, 332}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ED8BF84212B0686100F2E9DE /* timerAction */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* timerAction */;
+		codeSenseManager = ED8BF84712B0688000F2E9DE /* Code sense */;
+		executables = (
+			ED8BF84212B0686100F2E9DE /* timerAction */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1170,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331450861;
+			PBXWorkspaceStateSaveDate = 331450861;
+		};
+		perUserProjectItems = {
+			ED5FEFDD13C189E600AB2300 /* PBXTextBookmark */ = ED5FEFDD13C189E600AB2300 /* PBXTextBookmark */;
+			ED5FEFDE13C189E600AB2300 /* PBXTextBookmark */ = ED5FEFDE13C189E600AB2300 /* PBXTextBookmark */;
+			ED5FEFE013C189E600AB2300 /* PBXTextBookmark */ = ED5FEFE013C189E600AB2300 /* PBXTextBookmark */;
+			ED5FEFED13C18A6C00AB2300 /* PBXTextBookmark */ = ED5FEFED13C18A6C00AB2300 /* PBXTextBookmark */;
+			ED8BF9DC12B0AAEB00F2E9DE /* PBXTextBookmark */ = ED8BF9DC12B0AAEB00F2E9DE /* PBXTextBookmark */;
+			ED8BF9E012B0AAEB00F2E9DE /* PBXTextBookmark */ = ED8BF9E012B0AAEB00F2E9DE /* PBXTextBookmark */;
+		};
+		sourceControlManager = ED8BF84612B0688000F2E9DE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	ED5FEFDD13C189E600AB2300 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* timerActionAppDelegate.h */;
+		name = "timerActionAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 0;
+	};
+	ED5FEFDE13C189E600AB2300 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* timerActionAppDelegate.m */;
+		name = "timerActionAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1586;
+		vrLoc = 0;
+	};
+	ED5FEFE013C189E600AB2300 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* timerActionViewController.h */;
+		name = "timerActionViewController.h: 17";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	ED5FEFED13C18A6C00AB2300 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* timerActionViewController.h */;
+		name = "timerActionViewController.h: 17";
+		rLen = 0;
+		rLoc = 318;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 0;
+	};
+	ED8BF84212B0686100F2E9DE /* timerAction */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = timerAction;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ED8BF84612B0688000F2E9DE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED8BF84712B0688000F2E9DE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED8BF9DC12B0AAEB00F2E9DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED8BF9DD12B0AAEB00F2E9DE /* UITextField.h */;
+		name = "UITextField.h: 11";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 1330;
+		vrLoc = 0;
+	};
+	ED8BF9DD12B0AAEB00F2E9DE /* UITextField.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UITextField.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextField.h;
+		sourceTree = "<absolute>";
+	};
+	ED8BF9E012B0AAEB00F2E9DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* timerActionViewController.m */;
+		name = "timerActionViewController.m: 40";
+		rLen = 0;
+		rLoc = 992;
+		rType = 0;
+		vrLen = 1177;
+		vrLoc = 0;
+	};
+}
